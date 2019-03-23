@@ -1,0 +1,7 @@
+{
+  "name": "eVida",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
